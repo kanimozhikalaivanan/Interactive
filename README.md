@@ -73,6 +73,6 @@ Publish the website in the given URL.
 </body>
 </html>
 ## OUTPUT:
-
+Screenshot 2025-12-17 161244.png
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
